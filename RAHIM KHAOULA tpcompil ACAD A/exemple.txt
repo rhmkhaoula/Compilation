@@ -1,0 +1,9 @@
+
+#Le programme calcule la somme des x premiers termes d’une suite 
+# arithmétique 
+INT X 
+X=0
+Resultat =0 
+WHILE(X!=0): 
+    Resultat = Resultat + X
+    X = X-1  
